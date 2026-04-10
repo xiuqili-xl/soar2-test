@@ -4,8 +4,8 @@ course_description: "One liner explanation."
 
 course_semester: "Sep 2026"
 
-baseurl: "/math-tools" # the subpath of your site, e.g. /blog/
-url: "http://druckmann-lab.github.io/" # the base hostname & protocol for your site
+baseurl: "/soar2-test"                        # the subpath of your site, e.g. /blog/
+url: "http://xiuqili-xl.github.io/"        # the base hostname & protocol for your site
 
 schoolname: "UCSB Library"
 schoolurl: "https://www.library.ucsb.edu/"
