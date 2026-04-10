@@ -5,7 +5,10 @@ items:
 
 - url_internal: /instructors/
   name: Instructors
-  icon_class: fas fa-user-graduate
+  icon_class: fas fa-user-tie
+
+- url_external: https://github.com/xiuqili-xl/soar2-test
+  icon_class: fa fa-github
 
 #- url_internal: /schedule/
 #  name: Schedule
