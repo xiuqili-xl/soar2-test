@@ -1,0 +1,41 @@
+---
+layout: page
+---
+
+{{ content }}
+
+<ul id="archive">
+{% for module in site.modules %}
+<li class="archiveposturl" style="background: transparent">
+<div class="module-container">
+    {% if module.thumbnail %}
+    <div class="thumbnail">
+      <div class="center-cropped" style="margin-top:5px;margin-bottom:5px;background-image: url('{{ module.thumbnail | prepend: site.baseurl }}');">
+        <img src="{{ module.thumbnail | prepend: site.baseurl }}"/>
+      </div>
+    </div>
+    {% endif %}
+    <div class="content">
+        <span style="font-weight: bold;">{{ module.title }}</span> ({{ module.date | date: site.onlydateformat }})<br>
+
+        {% if module.description %}
+        {{ module.description }}
+        <br/>
+        {% endif %}
+
+        <strong>
+        {% include module_links.html module=module %}
+        </strong>
+
+        {% if module.content != '' %}
+        <br/>
+        <div class="markdown-content" style="margin-top: 3px;">
+        {{ module.content }}
+        </div>
+        {% endif %}
+        
+    </div>
+</div>
+</li>
+{% endfor %}
+</ul>

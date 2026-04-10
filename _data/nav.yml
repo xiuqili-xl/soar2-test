@@ -7,13 +7,22 @@ items:
   name: Instructors
   icon_class: fas fa-user-tie
 
+- url_internal: /modules/
+  name: Modules
+  icon_class: fas fa-book-reader
+
+- url_internal: /about/
+  name: About
+  icon_class: fa fa-info-circle
+
+# changed materials.md to program.md, save chunck below for now
+#- url_internal: /materials/
+#  name: Materials
+#  icon_class: fas fa-book
+
 #- url_internal: /schedule/
 #  name: Schedule
 #  icon_class: fas fa-calendar-alt
-
-#- url_internal: /lectures/
-#  name: Lectures
-#  icon_class: fas fa-book-reader
 
 #- url_internal: /assignments/
 #  name: Assignments
@@ -27,6 +36,3 @@ items:
 #  name: Project
 #  icon_class: fas fa-user-graduate
 
-#- url_internal: /materials/
-#  name: Materials
-#  icon_class: fas fa-book

@@ -460,7 +460,7 @@ a.tosu {
     opacity: 0;
   }
 
-  .lecture-container {
+  .module-container {
   
     display: flex;
     width: 100%;
@@ -468,7 +468,8 @@ a.tosu {
     padding-bottom: 10px;
     
     .thumbnail {
-      width: 120px;
+      width: 160px;
+      margin-right: 16px;
     }
     
     .content {
@@ -509,12 +510,12 @@ a.tosu {
     } 
   }
 
-  .lecture-links {
+  .module-links {
       font-weight: bold;
       font-family: 'Titillium Web', sans-serif;
   }
 
-  .schedule-lecture-links {
+  .schedule-module-links {
     font-weight: normal;
     font-family: inherit;
   }
