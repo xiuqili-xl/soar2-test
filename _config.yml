@@ -1,19 +1,19 @@
 # Site settings
-course_name: History of Magic
-course_description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ornare aliquam mattis. Donec hendrerit sollicitudin urna. Aliquam venenatis rutrum velit, at lobortis dui cursus a. Nam varius metus in turpis maximus, ut rhoncus tellus dictum. In aliquam tortor nec mi dapibus, sit amet vehicula dolor auctor."
-course_semester: "Fall 1998"
+course_name: Summer Open And Reproducible Research (SOAR²) Intensive
+course_description: "One liner explanation."
 
-baseurl: "/soar2-test"                  # the subpath of your site, e.g. /blog/
-url: "http://xiuqili-xl.github.io/"     # the base hostname & protocol for your site
+course_semester: "Sep 2026"
 
-schoolname: "Hogwarts"
-schoolurl: "https://hogwarts.edu"
-twitter_username: username 
+baseurl: "/soar2-test"                        # the subpath of your site, e.g. /blog/
+url: "http://xiuqili-xl.github.io/"        # the base hostname & protocol for your site
+
+schoolname: "UCSB Library"
+schoolurl: "https://www.library.ucsb.edu/"
+#twitter_username: username 
 
 address: |
-    School of Witchcraft and Wizardry
-    Hogwarts
-    Scotland
+    UCSB Library
+    Santa Barabara, CA
 
 # Set your Google Analytics tracking ID (set up yours at http://www.google.com/analytics/)
 # google_analytics: UA-XXXXXXXX-X
@@ -30,7 +30,11 @@ excerpt_separator: "<!--more-->"
 include: ['_images', '_css']
 exclude: ['develop']
 
-dateformat: "%m/%d/%Y"
+dateformat: "%a %-m/%-d/%Y"
+onlydateformat: "%-m/%-d/%Y"
+timeformat: "%-I:%M %p"
+
+timezone: America/Los_Angeles
 
 future: true
 collections:

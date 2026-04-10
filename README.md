@@ -1,7 +1,6 @@
-This GitHub repo is for testing website set up for SOAR2
+# SOAR2 test website
 
-
-## Acknowledgement 
-Website template derived from [jekyll-course-website-template by kazemnejad](https://github.com/kazemnejad/jekyll-course-website-template) (MIT license)
-
+## Acknowledgement
+Repo forked from https://github.com/druckmann-lab/math-tools
+Template from https://github.com/kazemnejad/jekyll-course-website-template
 
