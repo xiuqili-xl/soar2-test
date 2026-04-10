@@ -437,15 +437,15 @@ a.tosu {
 }
 
 .center-cropped {
-    width: 100px;
-    height: 60px;
+    width: 140px;
+    height: 140px;
     background-repeat: no-repeat;
     overflow: hidden;
     border: 2px solid $primary-color;
     border-radius: 5%;
     margin-right: 10px;
     background-position: center;
-    background-size: contain;
+    background-size: cover;
   }
   
   /* Set the image to fill its parent and make transparent */
@@ -469,6 +469,23 @@ a.tosu {
     
     .thumbnail {
       width: 120px;
+    }
+    
+    .content {
+      flex: 1;
+    }
+  }
+
+  .instructor-container {
+  
+    display: flex;
+    width: 100%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+    .thumbnail {
+      width: 160px;
+      margin-right: 16px;
     }
     
     .content {

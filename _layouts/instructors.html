@@ -5,8 +5,11 @@ layout: page
 {{ content }}
 
 <ul id="archive">
+
 {% for instructor in site.instructors %}
+
 <li class="archiveposturl" style="background: transparent">
+
 <div class="instructor-container">
     
     {% if instructor.thumbnail %}
@@ -20,8 +23,8 @@ layout: page
     <div class="content">
         <span style="font-weight: bold;">{{ instructor.name }}</span> , {{ instructor.title }}<br>
 
-        {% if instructor.description %}
-        {{ instructor.description }}
+        {% if instructor.bio %}
+        {{ instructor.bio }}
         <br/>
         {% endif %}
 
@@ -30,6 +33,7 @@ layout: page
         <strong>
         {% include lecture_links.html lecture=lecture %}
         </strong>
+        --> 
 
         {% if instructor.content != '' %}
         <br/>
@@ -37,7 +41,6 @@ layout: page
         {{ instructor.content }}
         </div>
         {% endif %}
-        --> 
 
     </div>
 </div>
