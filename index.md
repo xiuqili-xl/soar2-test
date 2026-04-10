@@ -2,7 +2,7 @@
 layout: home
 ---
 
-**Are you conducting mentored research—or curious about getting started? Want to build practical research skills and understand how research actually works?**
+**Are you conducting mentored research—or curious about getting started? Want to build practical research skills that you can apply immediately?**
 
 The Summer Open And Reproducible Research (SOAR²) Intensive is a three-day, hands-on program designed for UCSB undergraduate students who want to navigate research with confidence. Whether you are already involved in a research project or just getting started, SOAR² will help you develop practical skills, understand research expectations, and learn how to contribute to research in transparent and responsible ways.
 
