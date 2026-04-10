@@ -1,0 +1,19 @@
+---
+type: instructor
+name: Greg Janeé
+title: Director of Research Data Services
+description: Greg Janée is director of Research Data Services at the UCSB Library.  His background is in software engineering, digital libraries, research data management, geospatial data, and general data wrangling and processing.
+thumbnail: /_images/instructors/janee-greg.jpg
+
+hide_from_announcments: true
+
+#links: 
+#   - url: https://colab.research.google.com/drive/1X4psnG4h9OljfYJwxDHadqM66BmhOz--?usp=sharing
+#      name: Programming Basics Colab Notebook
+---
+[//]: # **This part should be hidden:**
+[//]: # #- [Readings 1](http://example.com)
+[//]: # #- [Readings 2](http://example.com)
+
+**Module:**
+- [Computing](www.google.com)

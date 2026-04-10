@@ -2,7 +2,7 @@
 type: instructor
 name: Xiuqi "Jade" Li
 title: Open Science Librarian
-description: "Add description of Jade."
+description: Xiuqi "Jade" Li, is the Open Science Librarian and subject librarian for MCDB, EEMB, and BioEngineering. She promotes open science principles and practices across the research lifecycle, from data to dissemination. Trained as a biomedical scientist at Yale University and an educator at Harvard Medical School, she brings a practitioner’s perspective to emerging trends in research data and scholarly communication.
 thumbnail: /_images/instructors/li-xiuqi.jpg
 
 hide_from_announcments: true
@@ -14,3 +14,6 @@ hide_from_announcments: true
 [//]: # **Modules:**
 [//]: # #- [Readings 1](http://example.com)
 [//]: # #- [Readings 2](http://example.com)
+
+**Module:**
+- [Entering Research](www.google.com)
