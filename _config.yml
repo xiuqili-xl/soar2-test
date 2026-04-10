@@ -1,20 +1,19 @@
 # Site settings
-course_name: Introduction to Mathematical Tools in Neuroscience
-course_description: "The goal of the class is to equip students with an intuitive grasp for some of the computational techniques commonly employed in neuroscience through a fun and relaxed environnoment."
+course_name: Summer Open And Reproducible Research (SOAR²) Intensive
+course_description: "One liner explanation."
 
-course_semester: "Winter 2026"
+course_semester: "Sep 2026"
 
 baseurl: "/math-tools" # the subpath of your site, e.g. /blog/
 url: "http://druckmann-lab.github.io/" # the base hostname & protocol for your site
 
-schoolname: "Stanford University"
-schoolurl: "https://stanford.edu"
+schoolname: "UCSB Library"
+schoolurl: "https://www.library.ucsb.edu/"
 #twitter_username: username 
 
 address: |
-    Stanford University
-    Stanford, CA
-    USA
+    UCSB Library
+    Santa Barabara, CA
 
 # Set your Google Analytics tracking ID (set up yours at http://www.google.com/analytics/)
 # google_analytics: UA-XXXXXXXX-X
