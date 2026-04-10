@@ -11,9 +11,6 @@ hide_from_announcments: true
 #   - url: https://colab.research.google.com/drive/1X4psnG4h9OljfYJwxDHadqM66BmhOz--?usp=sharing
 #      name: Programming Basics Colab Notebook
 ---
-[//]: # **This part should be hidden:**
-[//]: # #- [Readings 1](http://example.com)
-[//]: # #- [Readings 2](http://example.com)
-
-**Module:**
-- [Computing](www.google.com)
+[//]: # **Modules:**
+[//]: # #- [Readings 1](https://www.google.com/)
+[//]: # #- [Readings 2](https://www.google.com/)

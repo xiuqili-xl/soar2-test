@@ -12,8 +12,5 @@ hide_from_announcments: true
 #      name: Programming Basics Colab Notebook
 ---
 [//]: # **Modules:**
-[//]: # #- [Readings 1](http://example.com)
-[//]: # #- [Readings 2](http://example.com)
-
-**Module:**
-- [Entering Research](www.google.com)
+[//]: # #- [Readings 1](https://www.google.com/)
+[//]: # #- [Readings 2](https://www.google.com/)
