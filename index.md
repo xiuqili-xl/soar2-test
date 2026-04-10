@@ -8,6 +8,7 @@ The Summer Open And Reproducible Research (SOAR²) Intensive is a three-day, han
 
 **SOAR² is free to attend, and meals are provided.**
 
+<br/>
 
 ## Why apply
 
@@ -20,6 +21,7 @@ In just three days, you will:
 * Build confidence in communicating your research
 * Leave with a clear plan for your next steps in research
 
+<br/>
 
 ## What to expect
 
@@ -32,11 +34,13 @@ SOAR² is highly interactive. You’ll participate in:
 
 Sessions are led by facilitators from different disciplines (see Instructors tab), so you’ll gain perspectives that apply across fields.
 
+<br/>
 
 ## Who should apply
 
 No prior research experience required! We welcome applications from **all UCSB undergraduate students**, whether you have a research project, are interested in getting started in research, or are just curious.
 
+<br/>
 
 ## Program dates
 **Application opens**: May 13 - Jun 3, 2026
@@ -45,6 +49,7 @@ No prior research experience required! We welcome applications from **all UCSB u
 
 **Program dates**: Sep 16 - 18, 2026 (before the start of Fall Quarter)
 
+<br/>
 
 ## What we ask of you
 
@@ -55,6 +60,7 @@ SOAR² is a short but intensive program. Please be prepared to:
 * Engage respectfully with peers from diverse disciplines and backgrounds
 * Come prepared to reflect on your own research interests or experiences
 
+<br/>
 
 ## How to apply
 
@@ -65,6 +71,9 @@ The application will include:
 * Basic information about you
 * Short statements about your research interests and what you hope to gain from SOAR²
 
+<br/>
 
 ## Questions?
 Contact: rds@library.ucsb.edu
+
+
