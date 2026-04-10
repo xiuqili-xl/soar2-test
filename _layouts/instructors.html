@@ -1,0 +1,46 @@
+---
+layout: page
+---
+
+{{ content }}
+
+<ul id="archive">
+{% for instructor in site.instructors %}
+<li class="archiveposturl" style="background: transparent">
+<div class="instructor-container">
+    
+    {% if instructor.thumbnail %}
+    <div class="thumbnail">
+      <div class="center-cropped" style="margin-top:5px;margin-bottom:5px;background-image: url('{{ instructor.thumbnail | prepend: site.baseurl }}');">
+        <img src="{{ instructor.thumbnail | prepend: site.baseurl }}"/>
+      </div>
+    </div>
+    {% endif %}
+    
+    <div class="content">
+        <span style="font-weight: bold;">{{ instructor.name }}</span> ({{ instructor.title }})<br>
+
+        {% if instructor.description %}
+        {{ instructor.description }}
+        <br/>
+        {% endif %}
+
+        <!-- Consider list lecture taught by instructors. Hide for now --> 
+        <!-- 
+        <strong>
+        {% include lecture_links.html lecture=lecture %}
+        </strong>
+
+        {% if instructor.content != '' %}
+        <br/>
+        <div class="markdown-content" style="margin-top: 3px;">
+        {{ instructor.content }}
+        </div>
+        {% endif %}
+        --> 
+
+    </div>
+</div>
+</li>
+{% endfor %}
+</ul>

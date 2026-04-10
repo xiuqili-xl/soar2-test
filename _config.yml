@@ -10,11 +10,6 @@ url: "http://xiuqili-xl.github.io/"        # the base hostname & protocol for yo
 schoolname: "UCSB Library"
 schoolurl: "https://www.library.ucsb.edu/"
 
-# Social media accounts (uncomment and fill in the username if you have one)
-# github_username: xiuqili-xl
-# orcid_id: 0000-0003-1796-8555
-#google_scholar_id: google_scholar_id
-#twitter_username: username 
 
 # Repo information (for repo_source, use the format "username/repo")
 repo_copyright: Copyright 2026 by the Regents of the University of California
@@ -25,10 +20,6 @@ repo_source: xiuqili-xl/soar2-test
 program_info: |
     SOAR² is developed in partnership by Research Data Services (UCSB Library) and the Office of Undergraduate Research and Creative Activities (URCA), with support from the Open Research Community Accelerator (ORCA).
 
-
-# address: |
-#    UCSB Library
-#    Santa Barabara, CA
 
 # Set your Google Analytics tracking ID (set up yours at http://www.google.com/analytics/)
 # google_analytics: UA-XXXXXXXX-X
@@ -53,6 +44,8 @@ timezone: America/Los_Angeles
 
 future: true
 collections:
+    instructors:
+        output: true
     events:
         output: true
     lectures:
