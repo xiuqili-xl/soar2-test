@@ -1,11 +1,12 @@
 ---
 layout: home
 ---
-As we learn more about the brain, the field of neuroscience is becoming increasingly computationally oriented. All subfields of neuroscience, ranging from genetics to systems neuroscience, rely on computational analysis.  We believe that even those not planning on working on computational questions will benefit from being conversant with computational terms. This will allow for more collaboration and perhaps a broader understanding of the field.
+Add more information about SOAR2 here
 
-The class should be painless, and perhaps enjoyable, even for those who don't normally like math or programming classes. Because the best way to learn is by doing rather than watching, there is a problem set associated with each lecture. Recognizing your workload in labs and other coursework, we will work hard to minimize work while maximizing learning.
+# Heading 1
 
-Our course meets every Thursday, 5:00 PM - 6:30 PM, starting 1/08/2026 and ending 3/12/2026. We will alternate (roughly) between lectures and in-class problem solving sessions. Please visit the Schedule page for more details.
+## Heading 2
 
-You can find the course syllabus [here](https://docs.google.com/document/d/1snuzh91QpPjPYMjDZpxcDsm8XKlzj8q2WM-JCVbRgNY/edit?usp=sharing).
+
+Add a link to stuff[here](https://docs.google.com/document/d/1snuzh91QpPjPYMjDZpxcDsm8XKlzj8q2WM-JCVbRgNY/edit?usp=sharing).
 
