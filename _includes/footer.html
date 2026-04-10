@@ -11,8 +11,9 @@
       </div>
 
       <div class="footer-col  footer-col-2">
-        <ul class="social-media-list">
+        <ul class="source-info-list">
 
+          <!-- Copyright info -->
           {% if site.repo_copyright %}
           <li>
               <i class="fa fa-copyright" style="color:gray"></i> {{ site.repo_copyright }}
@@ -20,12 +21,15 @@
           {% endif %}
 
 
+          <!-- License info -->
           {% if site.repo_license %}
           <li>
-              <i class="	fa fa-refresh" style="color:gray"></i> {{ site.repo_license }}
+              <i class="fa fa-refresh" style="color:gray"></i> {{ site.repo_license }}
           </li>
           {% endif %}
         
+
+          <!-- Link to source repository -->
           {% if site.repo_source %}
           <li>
             <a href="https://github.com/{{ site.repo_source }}">
@@ -33,19 +37,6 @@
             </a>
           </li>
           {% endif %}
-
-
-<!-- GitHub account -->
- <!--
-          {% if site.github_username %}
-  <li>
-    <a href="https://github.com/{{ site.github_username }}">
-      <i class="fab fa-github" style="color:gray"></i> {{ site.github_username }}
-    </a>
-  </li>
-{% endif %}
--->
-
 
 
         </ul>
