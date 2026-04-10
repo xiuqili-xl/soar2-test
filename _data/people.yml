@@ -1,10 +1,14 @@
-instructors:
-  - name: Matthew Bauer
-    profile_pic: /_images/pp/matt.jpg
-  - name: Balint Kurgyis
-    profile_pic: /_images/pp/hiking_balint.jpeg
+# For adding instructor photos to the bottom of the home page
+# Also requires editing _layouts/home.html to add the instructors section
+# Currently hidden until decided
 
-teaching_assistants:
-  - name: Shaul Druckmann
-    profile_pic: /_images/pp/happy_shaul.jpg
-    webpage: https://www.druckmannlab.com
+# instructors:
+#  - name: Matthew Bauer
+#    profile_pic: /_images/pp/matt.jpg
+#  - name: Balint Kurgyis
+#    profile_pic: /_images/pp/hiking_balint.jpeg
+
+#teaching_assistants:
+#  - name: Shaul Druckmann
+#    profile_pic: /_images/pp/happy_shaul.jpg
+#    webpage: https://www.druckmannlab.com

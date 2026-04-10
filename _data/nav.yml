@@ -5,19 +5,19 @@ items:
 
 - url_internal: /instructors/
   name: Instructors
-  icon_class: fas fa-user-hat-tie
-
-- url_internal: /schedule/
-  name: Schedule
-  icon_class: fas fa-calendar-alt
-
-- url_internal: /lectures/
-  name: Lectures
-  icon_class: fas fa-book-reader
-
-- url_internal: /assignments/
-  name: Assignments
   icon_class: fas fa-user-graduate
+
+#- url_internal: /schedule/
+#  name: Schedule
+#  icon_class: fas fa-calendar-alt
+
+#- url_internal: /lectures/
+#  name: Lectures
+#  icon_class: fas fa-book-reader
+
+#- url_internal: /assignments/
+#  name: Assignments
+#  icon_class: fas fa-user-graduate
 
 #- url_external: https://edstem.org/us/courses/51930
 #  name: Ed
