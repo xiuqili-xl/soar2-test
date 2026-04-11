@@ -1,6 +1,6 @@
 ---
 layout: lectures
-title: Lectures
+title: Modules
 permalink: /lectures/
 ---
-[//]: # You can download the lectures here. We will try to upload lectures prior to their corresponding classes.
+# Materials for each module will be posted here
