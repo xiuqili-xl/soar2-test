@@ -49,7 +49,7 @@ collections:
     events:
         output: true
     modules:
-        output: true
+        output: false
     assignments:
         output: true
     announcements:

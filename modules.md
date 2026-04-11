@@ -1,5 +1,5 @@
 ---
-layout: modules
+layout: module_index
 title: Modules
 permalink: /modules/
 ---
