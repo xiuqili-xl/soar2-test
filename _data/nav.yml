@@ -11,7 +11,7 @@ items:
   name: Schedule
   icon_class: fas fa-calendar-alt
 
-- url_internal: /modules/
+- url_internal: /modules/               # ensures the page permalink and nav URL is /modules
   name: Modules
   icon_class: fas fa-book-open
 
