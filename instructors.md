@@ -4,4 +4,4 @@ title: Instructors
 permalink: /instructors/
 ---
 
-## This page lists confirmed instructors (alphabetical by last name).
+### *Confirmed instructors, listed alphabetical by last name.*

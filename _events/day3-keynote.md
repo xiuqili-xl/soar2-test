@@ -1,6 +1,6 @@
 ---
 type: exam                          # co-opting the exam type
-date: 2026-03-18T11:00:00-7:00
+date: 2026-09-18T11:00:00-7:00
 location: TBD
 name: Keynote Lecture
 description: 
