@@ -17,4 +17,6 @@ hide_from_announcments: true
 #    - url: https://google.com
 #      name: slides
 ---
-
+[//]: # Item in this section gets added to the Schedule page
+[//]: # #- [Readings 1](http://example.com)
+[//]: # #- [Readings 2](http://example.com)

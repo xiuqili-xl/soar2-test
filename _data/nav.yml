@@ -20,7 +20,6 @@ items:
 #  name: About
 #  icon_class: fas fa-info-circle
 
-
 ## Not sure if we need assignments for this program. Hide for now.
 #- url_internal: /assignments/
 #  name: Assignments

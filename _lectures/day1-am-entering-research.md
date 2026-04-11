@@ -9,13 +9,12 @@ thumbnail: /_images/modules/sample-module-image.png
 
 hide_from_announcments: true
 
-links: 
-    - url: https://google.com
-      name: Session Slides
+#links: 
+#    - url: https://google.com
+#      name: Session Slides
 #    - url: /static_files/presentations/lec.zip
 #      name: notes
 ---
-[//]: # Materials in this section gets added to the Schedule page
-[//]: # **Suggested Readings:**
+[//]: # Item in this section gets added to the Schedule page
 [//]: # #- [Readings 1](http://example.com)
 [//]: # #- [Readings 2](http://example.com)

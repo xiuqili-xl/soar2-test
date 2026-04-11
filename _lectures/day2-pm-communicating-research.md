@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2026-09-16T13:00:00-7:00
+date: 2026-09-17T13:00:00-7:00
 location: TBD
 
 title: Communicating Research
@@ -15,3 +15,6 @@ links:
 #    - url: https://google.com
 #      name: slides
 ---
+[//]: # Item in this section gets added to the Schedule page
+[//]: # #- [Readings 1](http://example.com)
+[//]: # #- [Readings 2](http://example.com)
