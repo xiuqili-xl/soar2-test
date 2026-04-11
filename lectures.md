@@ -1,6 +1,6 @@
 ---
 layout: lectures
 title: Modules
-permalink: /lectures/
+permalink: /modules/
 ---
 ### *Module materials will be posted once they become available.*

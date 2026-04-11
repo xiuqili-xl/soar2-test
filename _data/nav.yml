@@ -11,7 +11,7 @@ items:
   name: Schedule
   icon_class: fas fa-calendar-alt
 
-- url_internal: /lectures/
+- url_internal: /modules/
   name: Modules
   icon_class: fas fa-book-open
 
