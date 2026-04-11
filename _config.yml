@@ -48,7 +48,7 @@ collections:
         output: true
     events:
         output: true
-    modules:
+    lectures:
         output: true
     assignments:
         output: true
