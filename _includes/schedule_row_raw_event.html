@@ -1,4 +1,4 @@
-<div class="col col-1">{{ include.event.name }}</div>
+<div class="col col-1" style="color: #8a6d3b ;font-weight: bold;" data-label="Event">Event</div>
 
 <div class="col col-1-2" data-label="Date">
     {{ include.event.date | date: site.dateformat }}
@@ -11,6 +11,10 @@
     {{ include.event.location }}
 </div>
 
-<div class="col col-2" data-label="Session">{{ include.event.title }}</div>
+<div class="col col-2" data-label="Session">
+    {{ include.event.name }}
+</div>
 
-<div class="col col-4 markdown-content" data-label="Material">{{ include.event.content }}</div>
+<div class="col col-4 markdown-content" data-label="Material">
+    {{ include.event.content }}
+</div>
