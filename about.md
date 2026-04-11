@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Materials
-permalink: /materials/
+title: About
+permalink: /about/
 ---
 
-{% include image.html url="/_images/cover2.jpg" width=175 align="right" %}
+{% include image.html url="/_images/logo2.jpg" width=175 align="right" %}
 
 ## Book
 

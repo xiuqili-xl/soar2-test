@@ -9,7 +9,11 @@ items:
 
 - url_internal: /lectures/
   name: Modules
-  icon_class: fas fa-book-reader
+  icon_class: fas fa-book-open
+
+- url_internal: /about/
+  name: About
+  icon_class: fas fa-info-circle
 
 #- url_internal: /schedule/
 #  name: Schedule
@@ -27,6 +31,3 @@ items:
 #  name: Project
 #  icon_class: fas fa-user-graduate
 
-#- url_internal: /materials/
-#  name: Materials
-#  icon_class: fas fa-book
