@@ -7,18 +7,21 @@ items:
   name: Instructors
   icon_class: fas fa-user-tie
 
+- url_internal: /schedule/
+  name: Schedule
+  icon_class: fas fa-calendar-alt
+
 - url_internal: /lectures/
   name: Modules
   icon_class: fas fa-book-open
 
-- url_internal: /about/
-  name: About
-  icon_class: fas fa-info-circle
+## About page reserved for program info after the program starts. Hide for now.
+#- url_internal: /about/
+#  name: About
+#  icon_class: fas fa-info-circle
 
-#- url_internal: /schedule/
-#  name: Schedule
-#  icon_class: fas fa-calendar-alt
 
+## Not sure if we need assignments for this program. Hide for now.
 #- url_internal: /assignments/
 #  name: Assignments
 #  icon_class: fas fa-user-graduate
@@ -26,8 +29,4 @@ items:
 #- url_external: https://edstem.org/us/courses/51930
 #  name: Ed
 #  icon_class: fas fa-book
-
-#- url_internal: /project/
-#  name: Project
-#  icon_class: fas fa-user-graduate
 

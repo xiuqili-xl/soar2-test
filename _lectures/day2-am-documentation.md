@@ -5,7 +5,7 @@ location: TBD
 
 title: Documentation & Reproducibility
 description: ADD module description
-thumbnail: /_images_/modules/sample-module-image.png
+thumbnail: /_images/modules/sample-module-image.png
 
 hide_from_announcments: true
 

@@ -11,8 +11,11 @@ hide_from_announcments: true
 
 links: 
     - url: https://google.com
-      name: slides
+      name: Session Slides
+#    - url: /static_files/presentations/lec.zip
+#      name: notes
 ---
+[//]: # Materials in this section gets added to the Schedule page
 [//]: # **Suggested Readings:**
 [//]: # #- [Readings 1](http://example.com)
 [//]: # #- [Readings 2](http://example.com)
